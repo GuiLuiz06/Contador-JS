@@ -23,12 +23,6 @@ CSS – estilização e design básico.
 
 JavaScript – lógica do contador e manipulação do DOM.
 
-📂 Estrutura do Projeto
-contador-de-cliques/
-├─ index.html         # Página principal
-├─ style.css          # Estilos da página
-└─ script.js          # Script do contador
-
 💡 Melhorias Futuras
 
 Adicionar animações ao clicar nos botões.
