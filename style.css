@@ -1,0 +1,6 @@
+.container {
+    display: absolute;
+    justify-content: center;
+    text-align: center;
+    margin: 20%;
+}
